@@ -1,0 +1,26 @@
+{
+    "name": "ra-data-rest-hapi",
+    "version": "2.4.2",
+    "description": "Rest Hapi provider for react-admin",
+    "main": "lib/index.js",
+    "sideEffects": false,
+    "files": [
+        "*.md",
+        "src"
+    ],
+    "authors": [
+        "Maciej Krüger"
+    ],
+    "repository": "mkg20001/ra-data-rest-hapi",
+    "homepage": "https://github.com/mkg20001/ra-data-rest-hapi#readme",
+    "bugs": "https://github.com/mkg20001/ra-data-rest-hapi/issues",
+    "license": "MIT",
+    "dependencies": {
+        "query-string": "~5.1.1",
+        "react-admin": "^2.4.2"
+    },
+    "devDependencies": {
+        "cross-env": "^5.2.0",
+        "rimraf": "^2.6.2"
+    }
+}
