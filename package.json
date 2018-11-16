@@ -2,7 +2,7 @@
     "name": "ra-data-rest-hapi",
     "version": "2.4.2",
     "description": "Rest Hapi provider for react-admin",
-    "main": "lib/index.js",
+    "main": "src/index.js",
     "sideEffects": false,
     "files": [
         "*.md",
