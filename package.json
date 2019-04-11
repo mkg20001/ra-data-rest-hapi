@@ -1,6 +1,6 @@
 {
     "name": "ra-data-rest-hapi",
-    "version": "2.4.3",
+    "version": "2.4.4",
     "description": "Rest Hapi provider for react-admin",
     "main": "src/index.js",
     "sideEffects": false,
