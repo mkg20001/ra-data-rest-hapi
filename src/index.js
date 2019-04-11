@@ -57,6 +57,7 @@ export default (apiUrl, httpClient = fetchUtils.fetchJson) => {
     delete clean.createdAt
     delete clean.updatedAt
     delete clean.deletedAt
+    delete clean.isDeleted
     return JSON.stringify(clean)
   }
 
